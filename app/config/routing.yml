@@ -1,0 +1,5 @@
+eight_gag_post:
+    resource: "@EightGagPostBundle/Controller/"
+    type:     annotation
+    prefix:   /
+

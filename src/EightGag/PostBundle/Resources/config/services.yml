@@ -1,0 +1,7 @@
+parameters:
+#    eight_gag_post.example.class: EightGag\PostBundle\Example
+
+services:
+#    eight_gag_post.example:
+#        class: %eight_gag_post.example.class%
+#        arguments: [@service_id, "plain_value", %parameter%]

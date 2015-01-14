@@ -1,0 +1,3 @@
+eight_gag_post_homepage:
+    path:     /hello/{name}
+    defaults: { _controller: EightGagPostBundle:Default:index }
